@@ -1,6 +1,6 @@
 # ⚙️ Hardware
 
-- [VLSI-I](https://github.com/YOUR_USERNAME/VLSI-I)
+- [VLSI-I](https://github.com/GiorgosNtakos/VLSI-I)
 - [Computer-Architecture-Laboratory](https://github.com/YOUR_USERNAME/Computer-Architecture-Laboratory)
 - [Digital-Systems-Test-Verification-Labs-Fault-Testing-SystemVerilog](https://github.com/YOUR_USERNAME/Digital-Systems-Test-Verification-Labs-Fault-Testing-SystemVerilog)
 - [Logic-Design-I](https://github.com/YOUR_USERNAME/Logic-Design-I)
